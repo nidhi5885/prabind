@@ -1,9 +1,9 @@
 <?php
 /*Configuration File*/
 
-$servername = "localhost";
-$username = "root";
-$password = "pipl?123";
+$servername = "my-sql-server01.mysql.database.azure.com";
+$username = "nidhisharma@my-sql-server01";
+$password = "password@123";
 //$password = "";
 $database="lportal";
 $base_url='portal.progressive.in/web/procare/arf';
